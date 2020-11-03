@@ -110,7 +110,7 @@
 		</repository>
 		<repository>
 			<id>lsp4j</id>
-                        <url>http://download.eclipse.org/lsp4j/updates/releases/0.9.0/</url>
+			<url>http://download.eclipse.org/lsp4j/updates/releases/0.9.0/</url>
 			<layout>p2</layout>
 		</repository>
 	</repositories>
